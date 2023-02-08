@@ -1,13 +1,13 @@
-# READ-ME: VISAUL PROGRAMMING SEMESTER PROJECT
-Java Based Web API Application:
-Class: Visual Programming II
-Author: John Kenney
-Date: 05/2022
+# READ-ME: VISual PROGRAMMING SEMESTER PROJECT
+## Java Based Web API Application:
+### Class: Visual Programming II
+### Author: John Kenney
+### Date: 05/2022
 
-Details:
+## Details:
   For my visual programming class, we had to develop an application that implements a REST API. I decided to make an encyclopedia containing all the info for the popular FPS game made by RIOT games "Valorant". 
   
-Features: 
+## Features: 
 1.) This app used the unofficial Valorant API. 
 2.) Multi Page app broken down by each of the games main elements...
     a.) Characters - Breaks down each unique characters abilities and roles
